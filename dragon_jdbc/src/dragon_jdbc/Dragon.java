@@ -7,7 +7,10 @@ public class Dragon {
 	private int Ecaille;
 	private String feu;
 	private String compAmoureux;
-
+/**
+ * 
+ * @return
+ */
 	public String getNom() {
 		return nom;
 	}
